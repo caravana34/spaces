@@ -1,0 +1,10 @@
+h1{
+    color: hsl(140, 51%, 25%);
+}
+.bebida {
+    width: 150px;
+    height:180px;
+    border-radius:5px;
+    background-color: cadetblue;
+
+ }

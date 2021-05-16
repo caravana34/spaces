@@ -1,0 +1,40 @@
+{
+  "bebidas": [
+    {
+      "id": "1",
+      "name": "Infusiones",
+      "country": "México",
+      "ingredients": [
+        "Oregano",
+        "Tomillo",
+        "Manzanilla",
+        "Albahaca",
+        "Laurel"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Jugos",
+      "country": "Perú",
+      "ingredients": ["Mango", "Manzana", "Guayaba"]
+    },
+    {
+      "id": "3",
+      "name": "Batidos",
+      "country": "Costa Rica",
+      "ingredients": ["Avena", "Chia", "Linaza"]
+    },
+    {
+      "id": "4",
+      "name": "Cocteles",
+      "country": "Venezuela",
+      "ingredients": ["Manzana - Laurel", "Guayaba - Oregano", "Mango - Mnazanilla"]
+    },
+    {
+      "id": "5",
+      "name": "Aromáticas",
+      "country": "España",
+      "ingredients": ["Estragón", "Romero", "Hinojo", "Eneldo", "Menta", "Hierbabuena"]
+    }
+  ]
+}
